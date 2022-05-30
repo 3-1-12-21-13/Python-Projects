@@ -1,10 +1,10 @@
 # CUSTOM TIMES TABLE
 
 # The number you want to multiply goes here e.g - 7.
-num = 7
+num = 21
 
-# The number you want to multiply by goes here e.g - 10.
-mult = 10
+# The amount of multiples you want goes here e.g - 10.
+mult = 100
 
 # A list which creates part of the statement which is printed.
 filler = [f"multiplied by {i} is" for i in range(1,mult+1)]
